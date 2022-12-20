@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\bin\Debug\net6.0\ToDoConsole.exe
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\bin\Debug\net6.0\ToDoConsole.deps.json
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\bin\Debug\net6.0\ToDoConsole.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\bin\Debug\net6.0\ToDoConsole.dll
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\bin\Debug\net6.0\ToDoConsole.pdb
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.dll
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\refint\ToDoConsole.dll
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.pdb
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ToDoConsole.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\ToDoConsole\obj\Debug\net6.0\ref\ToDoConsole.dll
